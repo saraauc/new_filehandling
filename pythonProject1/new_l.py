@@ -7,7 +7,7 @@ with open('grades.csv', 'rt') as file:
 # Print the lines read from the file
 print(lines)
 
-# Initialize lists for students and grades
+# Initialize lists for students and grpthoades
 students = []
 grades = []
 
